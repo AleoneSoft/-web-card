@@ -26,6 +26,12 @@ body{
     height: 35px;
     width: 35px;
     margin: 3px;
+    transition: 0.5s;
+}
+.pic_navi:hover{
+    height: 30px;
+    width: 30px;
+    margin: 5px;
 }
 .a_pic_navi{
     height: 35px;
