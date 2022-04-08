@@ -93,6 +93,11 @@ p{
     width: 35px;
     margin: 3px;
 }
+.tg_link{
+    height: 35px;
+    width: 35px;
+    margin: 4px;
+}
 .create{
     margin: 0 0 0 auto;
 }
